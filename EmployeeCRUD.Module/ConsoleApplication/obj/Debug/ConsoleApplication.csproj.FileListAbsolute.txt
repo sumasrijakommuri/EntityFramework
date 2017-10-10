@@ -1,0 +1,16 @@
+C:\Users\suma\source\repos\EmployeeCRUD.Module\ConsoleApplication\bin\Debug\ConsoleApplication.exe.config
+C:\Users\suma\source\repos\EmployeeCRUD.Module\ConsoleApplication\bin\Debug\ConsoleApplication.exe
+C:\Users\suma\source\repos\EmployeeCRUD.Module\ConsoleApplication\bin\Debug\ConsoleApplication.pdb
+C:\Users\suma\source\repos\EmployeeCRUD.Module\ConsoleApplication\obj\Debug\ConsoleApplication.csproj.CoreCompileInputs.cache
+C:\Users\suma\source\repos\EmployeeCRUD.Module\ConsoleApplication\obj\Debug\ConsoleApplication.exe
+C:\Users\suma\source\repos\EmployeeCRUD.Module\ConsoleApplication\obj\Debug\ConsoleApplication.pdb
+C:\Users\suma\source\repos\EmployeeCRUD.Module\ConsoleApplication\bin\Debug\Employees.DataModel.dll
+C:\Users\suma\source\repos\EmployeeCRUD.Module\ConsoleApplication\bin\Debug\Employees.Entities.dll
+C:\Users\suma\source\repos\EmployeeCRUD.Module\ConsoleApplication\bin\Debug\EntityFramework.dll
+C:\Users\suma\source\repos\EmployeeCRUD.Module\ConsoleApplication\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\suma\source\repos\EmployeeCRUD.Module\ConsoleApplication\bin\Debug\Employees.DataModel.pdb
+C:\Users\suma\source\repos\EmployeeCRUD.Module\ConsoleApplication\bin\Debug\Employees.DataModel.dll.config
+C:\Users\suma\source\repos\EmployeeCRUD.Module\ConsoleApplication\bin\Debug\Employees.Entities.pdb
+C:\Users\suma\source\repos\EmployeeCRUD.Module\ConsoleApplication\bin\Debug\EntityFramework.xml
+C:\Users\suma\source\repos\EmployeeCRUD.Module\ConsoleApplication\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\suma\source\repos\EmployeeCRUD.Module\ConsoleApplication\obj\Debug\ConsoleApplication.csprojResolveAssemblyReference.cache

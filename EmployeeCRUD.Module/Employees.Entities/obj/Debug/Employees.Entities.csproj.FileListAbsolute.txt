@@ -1,0 +1,6 @@
+C:\Users\suma\source\repos\EmployeeCRUD.Module\Employees.Entities\obj\Debug\Employees.Entities.csproj.CoreCompileInputs.cache
+C:\Users\suma\source\repos\EmployeeCRUD.Module\Employees.Entities\bin\Debug\Employees.Entities.dll
+C:\Users\suma\source\repos\EmployeeCRUD.Module\Employees.Entities\bin\Debug\Employees.Entities.pdb
+C:\Users\suma\source\repos\EmployeeCRUD.Module\Employees.Entities\obj\Debug\Employees.Entities.csprojResolveAssemblyReference.cache
+C:\Users\suma\source\repos\EmployeeCRUD.Module\Employees.Entities\obj\Debug\Employees.Entities.dll
+C:\Users\suma\source\repos\EmployeeCRUD.Module\Employees.Entities\obj\Debug\Employees.Entities.pdb

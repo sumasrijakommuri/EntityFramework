@@ -1,0 +1,12 @@
+C:\Users\suma\source\repos\EmployeeCRUD.Module\Employees.DbContext\bin\Debug\Employees.DbContext.dll
+C:\Users\suma\source\repos\EmployeeCRUD.Module\Employees.DbContext\bin\Debug\Employees.DbContext.pdb
+C:\Users\suma\source\repos\EmployeeCRUD.Module\Employees.DbContext\bin\Debug\Employees.Entities.dll
+C:\Users\suma\source\repos\EmployeeCRUD.Module\Employees.DbContext\bin\Debug\EntityFramework.dll
+C:\Users\suma\source\repos\EmployeeCRUD.Module\Employees.DbContext\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\suma\source\repos\EmployeeCRUD.Module\Employees.DbContext\bin\Debug\Employees.Entities.pdb
+C:\Users\suma\source\repos\EmployeeCRUD.Module\Employees.DbContext\bin\Debug\EntityFramework.xml
+C:\Users\suma\source\repos\EmployeeCRUD.Module\Employees.DbContext\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\suma\source\repos\EmployeeCRUD.Module\Employees.DbContext\obj\Debug\Employees.DbContext.csprojResolveAssemblyReference.cache
+C:\Users\suma\source\repos\EmployeeCRUD.Module\Employees.DbContext\obj\Debug\Employees.DbContext.csproj.CoreCompileInputs.cache
+C:\Users\suma\source\repos\EmployeeCRUD.Module\Employees.DbContext\obj\Debug\Employees.DbContext.dll
+C:\Users\suma\source\repos\EmployeeCRUD.Module\Employees.DbContext\obj\Debug\Employees.DbContext.pdb

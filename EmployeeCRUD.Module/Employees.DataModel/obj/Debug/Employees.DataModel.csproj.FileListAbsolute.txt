@@ -1,0 +1,17 @@
+C:\Users\suma\source\repos\EmployeeCRUD.Module\Employees.DataModel\bin\Debug\Employees.DataModel.dll.config
+C:\Users\suma\source\repos\EmployeeCRUD.Module\Employees.DataModel\bin\Debug\Employees.DataModel.dll
+C:\Users\suma\source\repos\EmployeeCRUD.Module\Employees.DataModel\bin\Debug\Employees.DataModel.pdb
+C:\Users\suma\source\repos\EmployeeCRUD.Module\Employees.DataModel\bin\Debug\Employees.Entities.dll
+C:\Users\suma\source\repos\EmployeeCRUD.Module\Employees.DataModel\bin\Debug\EntityFramework.dll
+C:\Users\suma\source\repos\EmployeeCRUD.Module\Employees.DataModel\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\suma\source\repos\EmployeeCRUD.Module\Employees.DataModel\bin\Debug\Employees.Entities.pdb
+C:\Users\suma\source\repos\EmployeeCRUD.Module\Employees.DataModel\bin\Debug\EntityFramework.xml
+C:\Users\suma\source\repos\EmployeeCRUD.Module\Employees.DataModel\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\suma\source\repos\EmployeeCRUD.Module\Employees.DataModel\obj\Debug\Employees.DataModel.csprojResolveAssemblyReference.cache
+C:\Users\suma\source\repos\EmployeeCRUD.Module\Employees.DataModel\obj\Debug\Employees.DataModel.csproj.CoreCompileInputs.cache
+C:\Users\suma\source\repos\EmployeeCRUD.Module\Employees.DataModel\obj\Debug\Employees.DataModel.dll
+C:\Users\suma\source\repos\EmployeeCRUD.Module\Employees.DataModel\obj\Debug\Employees.DataModel.pdb
+C:\Users\suma\source\repos\EmployeeCRUD.Module\Employees.DataModel\obj\Debug\Employees.DataModel.Migrations.Initial.resources
+C:\Users\suma\source\repos\EmployeeCRUD.Module\Employees.DataModel\obj\Debug\Employees.DataModel.csproj.GenerateResource.Cache
+C:\Users\suma\source\repos\EmployeeCRUD.Module\Employees.DataModel\obj\Debug\Employees.DataModel.Migrations.AddAddress.resources
+C:\Users\suma\source\repos\EmployeeCRUD.Module\Employees.DataModel\obj\Debug\Employees.DataModel.Migrations.AddAddressForeignKey.resources
